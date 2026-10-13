@@ -1,0 +1,13 @@
+Rapport d'analyse de journal
+============================
+Fichier analyse : ./logs/log-analysis-tmp.h1HTBAJlJu-20261013-090753.txt
+Date analyse : 2026-10-13 09:11:53 CEST
+Nombre total de lignes : 13
+Nombre erreurs : 1
+Nombre avertissements : 1
+
+Lignes contenant des erreurs :
+Ligne 10 : Ligne 3 : ERROR: service indisponible
+
+Lignes contenant des avertissements :
+Ligne 13 : Ligne 2 : WARNING: espace disque bas
